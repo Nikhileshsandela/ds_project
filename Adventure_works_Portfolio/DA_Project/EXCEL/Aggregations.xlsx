@@ -1,0 +1,9 @@
+﻿Shift,WageType,RecordCount,TotalLevelOneOperators,MinLevelOneOperators,MaxLevelOneOperators,AvgLevelOneOperators
+AM,holiday,10,18,1,2,1.800000
+AM,weekday,20,38,1,2,1.900000
+midnight,holiday,10,7,0,2,0.700000
+midnight,weekday,20,14,0,1,0.700000
+PM1,holiday,10,28,2,3,2.800000
+PM1,weekday,20,53,2,3,2.650000
+PM2,holiday,10,34,3,4,3.400000
+PM2,weekday,20,65,3,4,3.250000
