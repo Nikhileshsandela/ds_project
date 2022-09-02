@@ -1,1 +1,1 @@
-This is space for sample projects in data science
+This is a space for sample projects in data science
